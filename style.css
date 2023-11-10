@@ -9,18 +9,6 @@
     font-family: var(--font2);
 }
 
-.fs-c {
-    font-size: 3.5rem;
-}
-
-.ms-c {
-    margin-left: 11rem;
-}
-
-.me-c {
-    margin-right: 10.7rem;
-}
-
 * {
     padding: 0%;
     margin: 0%;
@@ -28,20 +16,4 @@
 
 ::marker {
     content: none;
-}
-
-.w-8 {
-    width: 8rem;
-}
-
-.square-button {
-    --bs-btn-border-radius: 0;
-}
-
-.bic {
-    cursor: pointer;
-}
-
-.h-16 {
-    height: 16px;
 }
